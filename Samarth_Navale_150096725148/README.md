@@ -27,36 +27,6 @@ An interactive **Real-Time Multiplayer Trivia & Quiz Battle Arena** built with *
 
 ---
 
-## 📁 Project Folder Structure
-
-```text
-📂 Assignment14/
-├── 📄 render.yaml
-├── 📄 vercel.json
-├── 📄 Assignment 14.txt
-├── 📄 README.md
-└── 📂 Samarth_Navale_150096725148/
-    ├── 📄 server.js
-    ├── 📄 package.json
-    ├── 📄 .env & .env.example
-    ├── 📄 .gitignore
-    ├── 📄 render.yaml & vercel.json
-    ├── 📄 README.md
-    ├── 📂 data/
-    │   └── 📄 questions.json
-    ├── 📂 public/
-    │   ├── 📄 index.html
-    │   ├── 📄 host.html
-    │   ├── 📄 player.html
-    │   ├── 📄 app.js
-    │   └── 📄 style.css
-    └── 📂 sockets/
-        ├── 📄 lobbyHandler.js
-        └── 📄 gameEngine.js
-```
-
----
-
 ## 🛠️ Tech Stack & Dependencies
 
 - **Runtime:** Node.js
@@ -78,7 +48,6 @@ NODE_ENV=development
 ## 🧪 Testing
 
 ```bash
-cd Samarth_Navale_150096725148
 npm install
 npm test
 ```
